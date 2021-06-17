@@ -22,7 +22,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     features:
-      - title: The Best Feature of Your Services
+      - title: Demo de página web
         image: /images/80515487_1045112792490186_5659432634472726528_n.jpg
         image_alt: App preview on a phone and tablet
         content: >-
