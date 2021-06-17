@@ -42,7 +42,7 @@
                 "image": "images/logo-alt.svg",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "Esto es el footer o pie de página\n"
             },
             {
                 "type": "footer_nav",
