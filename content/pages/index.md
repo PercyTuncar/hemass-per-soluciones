@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: /images/80515487_1045112792490186_5659432634472726528_n.jpg
     image_alt: App preview
     title: Hemass Perú Soluciones
     content: >
