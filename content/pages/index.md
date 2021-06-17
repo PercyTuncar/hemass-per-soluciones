@@ -6,9 +6,10 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Hemass Perú Soluciones
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Hemass perú es una empresa creada con la finalidad de brindar soluciones
+      múltiples en diversos rubros y requerimientos en bienes y servicios de la
+      más selecta y alta calidad
     actions:
       - label: Learn More
         url: /features
