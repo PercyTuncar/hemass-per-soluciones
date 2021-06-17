@@ -29,7 +29,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Contactar",
                 "url": "/signup",
                 "style": "primary"
             }
