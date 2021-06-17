@@ -96,7 +96,7 @@ sections:
     title: Este es una llamada de acción
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
+      - label: Contactar
         url: /signup
         style: primary
   - section_id: recent-posts
